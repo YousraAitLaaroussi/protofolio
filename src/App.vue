@@ -4,9 +4,6 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div class="h-screen flex items-center justify-center bg-gray-100">
-    <h1 class="text-4xl font-bold text-blue-600">Vue 3 + TailwindCSS 🚀</h1>
-  </div>
   <RouterView />
 </template>
 
